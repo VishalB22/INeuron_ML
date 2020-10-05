@@ -1,2 +1,2 @@
 # INeuron_ML
-Assignments of INeuron ML Course
+Solutions to assignments of INeuron ML Course
